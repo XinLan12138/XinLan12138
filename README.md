@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @XinLan
+- 👀 I’m interested in Machine learning and image processing
+- 🌱 I’m currently learning Compuper control and Automation in NTU
+- 📫 You can reach me through email: lanxin12138@outlook.com
